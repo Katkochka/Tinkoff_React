@@ -1,0 +1,61 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+}
+.Info{
+margin-top: 16px;
+display: flex;
+
+    .imgBox {
+        .Poster{
+            width: 200px;
+            height: 297px;
+        }
+    }
+    .InfoText{
+        margin-left: 24px;
+        flex-direction: column;
+        .Name{
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 29px;
+        }
+        .Autor{
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+        
+            color: #6C6C6C;
+        }
+        .Parametrs{
+            margin-top: 16px;
+
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+        }
+    }
+}
+
+.Description{
+    .D1{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
+.Rating{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
