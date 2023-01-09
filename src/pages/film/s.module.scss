@@ -1,6 +1,13 @@
 .Header{
     display: flex;
     justify-content: space-between;
+    width: 770px;
+
+    .Edit{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+    }
 }
 .Info{
 margin-top: 16px;
@@ -51,11 +58,8 @@ display: flex;
         font-size: 20px;
         line-height: 24px;
     }
-}
-.Rating{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
+    .Text{
+        margin-top: 20px;
+        width: 770px;
+    }
 }

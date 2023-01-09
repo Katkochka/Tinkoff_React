@@ -1,14 +1,16 @@
 import s from './s.module.scss';
 
 
-export const Card = () => {
+export const Card = (props) => {
     return (
     <div className={s.Card}>
-        <div className={s.Label}> Название фильма </div>
+        <div className={s.Label}> {props.film.title} </div>
         <div className={s.Info}>
-            <div className={s.Year}> 2008 </div>
+            <div className={s.Year}> {props.film.year} </div>
             |
-            <div className={s.Tegs}> Теги, по типу жанра </div>
+            <div className={s.Tegs}> 
+                {props.film.genres.map(genre => genre + " ")}
+            </div>
         </div>
     </div> 
     );
