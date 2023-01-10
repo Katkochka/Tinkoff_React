@@ -2156,20 +2156,7 @@
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
     },
     {
-      "id": 1673344887290,
-      "title": "q",
-      "year": "q",
-      "genres": [
-        "Fantasy"
-      ],
-      "runtime": "q",
-      "plot": "q",
-      "posterUrl": "q",
-      "actors": "q",
-      "director": "q"
-    },
-    {
-      "id": 1673345336279,
+      "id": 147,
       "title": "Постучись в мою дверь",
       "year": "2021",
       "genres": [
@@ -2182,43 +2169,17 @@
       "director": "Турция"
     },
     {
-      "id": 1673345426041,
-      "title": "1",
-      "year": "1",
+      "title": "qq",
+      "year": "q",
       "genres": [
-        "Music"
+        "Crime"
       ],
-      "runtime": "1",
-      "plot": "1",
-      "posterUrl": "1",
-      "actors": "1",
-      "director": "1"
-    },
-    {
-      "id": 1673345429610,
-      "title": "1",
-      "year": "1",
-      "genres": [
-        "Music"
-      ],
-      "runtime": "1",
-      "plot": "1",
-      "posterUrl": "1",
-      "actors": "1",
-      "director": "1"
-    },
-    {
-      "id": 1673348457596,
-      "title": "1",
-      "year": "1",
-      "genres": [
-        "Action"
-      ],
-      "runtime": "1",
-      "plot": "1",
-      "posterUrl": "1",
-      "actors": "1",
-      "director": "1"
+      "runtime": "q",
+      "plot": "q",
+      "posterUrl": "q",
+      "actors": "",
+      "director": "q",
+      "id": 148
     }
   ]
 }
