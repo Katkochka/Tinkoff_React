@@ -1,0 +1,12 @@
+dist
+node_modules
+.idea
+.vscode
+.eslintcache
+*.log
+.env*
+!.env.example
+package-lock.json
+scripts/temp*.graphql
+coverage
+*.DS_Store

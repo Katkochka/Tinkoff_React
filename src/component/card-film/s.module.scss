@@ -1,37 +1,37 @@
-.Card{
-    margin-top: 6px;
-    background: #FFFFFF;
-    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
-    border-radius: 8px;
-    cursor: pointer;
+.Card {
+  margin-top: 6px;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  cursor: pointer;
 
-    .Label{
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 15px;
-        margin-left: 12px;
-        padding-top: 4px;
-    }
-    
-    .Info{
-        margin: 4px 0 0 12px ;
-        display: flex;
-        
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 13px;
+  .Label {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    margin-left: 12px;
+    padding-top: 4px;
+  }
 
-        padding-bottom: 4px;
-    
-        .Year{
-            margin-right: 6px;
-        }
-        .Tegs{
-            margin-left: 6px;
-        }
+  .Info {
+    margin: 4px 0 0 12px;
+    display: flex;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+
+    padding-bottom: 4px;
+
+    .Year {
+      margin-right: 6px;
     }
+    .Tegs {
+      margin-left: 6px;
+    }
+  }
 }

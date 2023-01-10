@@ -34,8 +34,7 @@ $desktop-lg-min: 'screen and (min-width: 1360px)';
 .row {
   display: flex;
   flex-flow: row wrap;
-  margin-left: -30px;
-  margin-right: -30px;
+
   // @media #{$mobile} {
   //   margin-left: -4px;
   //   margin-right: -4px;
@@ -68,7 +67,7 @@ $desktop-lg-min: 'screen and (min-width: 1360px)';
   //   @include generate-columns(md, 12, 16px);
   // }
 }
-.container{
+.container {
   max-width: 1200px;
   margin-right: auto;
   margin-left: auto;
